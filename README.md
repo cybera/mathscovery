@@ -1,4 +1,4 @@
-# Mathsovery 
+# Mathscovery 
 
 This is the repository where some (not boring) technical deep dives into doing math with computers will be saved. The idea is that we will store lots of information that will be presented over Lunch-N'-Learn sessions for the Data Science team (or anyone else that wants to come). In principle, this should also work as a stand alone repository for anyone to learn or have a refresher on (numerical) mathematics. 
 
