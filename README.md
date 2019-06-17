@@ -14,3 +14,7 @@ Each notebook will have different background knowledge, and we will offer (brief
 1. Calculus (univariate and multivariate/vector)
 2. Linear algebra
 3. Statistics (distributions and the like) 
+
+## Resources
+
+I'll add to this list as I go, but in terms of raw content and explainations I cannot recommend Numerical Recipes by Press, Teukolsky, Vetterling and Flannery (this is Alex's version of the Pragmatic Programmer). It has the advantage that it explains the theory and then demonstrates the code (however, the code is not... fantastic (and also it is in C) but as a resource, it is invaluable. )
