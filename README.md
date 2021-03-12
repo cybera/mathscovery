@@ -5,6 +5,9 @@ This is the repository where some (not boring) technical deep dives into doing m
 ## Organization
 Each topic ideally is introduced in its own notebook for easy access. Certainly - there will be some topics that lean heavily on previous topics/other knowledge. It is my hope that this will be layed out clearly so the intended order is clear. i.e. the prerequisite knowledge for each notebook is clear by the organization of the repository and/or a list with links to said prerequisite knowledge at the beginning of each notebook.
 
+## Hopes
+I'm hoping to avoid using packages like `numpy` and `scipy` where possible. Not because they're bad packages -- but beacuse I'm hoping with this repository we can develop the functions ourselves and get an idea of what "under the hood" looks like for a lot of these routines. Adimttedly, the functions we use will be slower and less robust than the ones in professional packages, but most of these routines are a lot less error prone/intuitive if you've written one or two yourself. 
+
 ### The Dream
 Depending on how the Jupyter Books go - with enough time maybe we can turn this into what is essentially a text book so we don't have to worry about things happening in the wrong order 
 
